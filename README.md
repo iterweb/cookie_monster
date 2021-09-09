@@ -1,10 +1,10 @@
 # Вирус-шутка Cookie Monster
 ![alt tag](https://github.com/pro100git/cookie_monster/blob/master/img/want_a_cookie.png)​<br>
 Cookie Monster - программа, которая была написана Крисом Таваресом в далеком 1969 году, как шутка, чтобы раздражать своих сокурсников.<br>
-Я же написал эту программу только ради интереса и ностальгии, по тем временам, когда вирусы были добрые :)<br>
+Я же написал эту программу только ради интереса.<br>
 ***
 Cookie Monster is a program that was written by Chris Tavares back in 1969 as a joke to annoy his fellow students.<br>
-I wrote this program just for the sake of interest and nostalgia, for those times when viruses were good :)
+I wrote this program just for the sake of interest.
 
 ### Что делает программа | What does this program do
 * Определяет язык OS
