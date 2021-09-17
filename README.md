@@ -1,5 +1,5 @@
 # Вирус-шутка Cookie Monster
-![alt tag](https://github.com/pro100git/cookie_monster/blob/master/img/want_a_cookie.png)​<br>
+![alt tag](https://github.com/iterweb/cookie_monster/blob/master/img/want_a_cookie.png)​<br>
 Cookie Monster - программа, которая была написана Крисом Таваресом в далеком 1969 году, как шутка, чтобы раздражать своих сокурсников.<br>
 Я же написал эту программу только ради интереса.<br>
 ***
@@ -29,4 +29,4 @@ Secret word: ```cookie```
 ```pyinstaller -F -w -i "cookie.ico" cookie.py```
 
 ### VirusTotal
-![alt tag](https://github.com/pro100git/cookie_monster/blob/master/img/virustotal.png)​
+![alt tag](https://github.com/iterweb/cookie_monster/blob/master/img/virustotal.png)​
